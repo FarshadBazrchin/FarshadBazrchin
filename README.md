@@ -53,17 +53,32 @@
 
 ---
 
-## 📊 آمار گیت‌هاب
+### 🔮 مجیکال کانکشن (Magical Connection)
+پروژه‌ای در حوزه‌ی اتصال و یکپارچه‌سازی سرویس‌ها و ابزارهای هوشمند.
+
+> ✏️ *(توضیحات این پروژه را می‌توانی اینجا کامل‌تر کنی.)*
+
+---
+
+### 🌐 دفیدکس (defidex.co)
+پلتفرمی مبتنی بر وب با تمرکز بر راهکارهای دیجیتال و سرویس‌های آنلاین.
+
+🔗 [مشاهده وب‌سایت](https://defidex.co)
+
+> ✏️ *(توضیحات این پروژه را می‌توانی اینجا کامل‌تر کنی.)*
+
+---
+
+## 📫 راه‌های ارتباطی
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&locale=fa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Website](https://img.shields.io/badge/Website-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
 
 </div>
-
-
 
 ---
 
