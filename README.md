@@ -54,18 +54,31 @@
 ---
 
 ### 🔮 مجیکال کانکشن (Magical Connection)
-پروژه‌ای در حوزه‌ی اتصال و یکپارچه‌سازی سرویس‌ها و ابزارهای هوشمند.
+طراحی و توسعه‌ی کامل افزونه‌ای برای انتقال فایل‌های کتابخانه‌ی رسانه‌ی وردپرس به سرورهای راه‌دور از طریق دو پروتکل مستقل FTP و HTTP API (Self-hosted).
 
-> ✏️ *(توضیحات این پروژه را می‌توانی اینجا کامل‌تر کنی.)*
+**مسئولیت‌ها و دستاوردها:**
+- 🎨 طراحی رابط کاربری مدرن با **Vue 3 + Vite** به‌عنوان SPA مستقل در پنل مدیریت وردپرس
+- ⚙️ پیاده‌سازی معماری ماژولار PHP برای مدیریت اتصالات، اسکنر فایل، کرون‌جاب و تنظیمات
+- 🌐 توسعه‌ی API مستقل PHP برای انتقال فایل از طریق HTTP (نصب روی سرور مقصد)
+- 🔄 به‌روزرسانی خودکار تمام ارجاعات دیتابیس (محتوا، فیلدهای سفارشی، ویجت‌ها) پس از هر انتقال
+- 📡 پیاده‌سازی سیستم اسکن زنده با **Server-Sent Events (SSE)** برای نمایش لحظه‌ای پیشرفت انتقال
+- 🔔 طراحی سیستم اعلان سفارشی (Toast) و مدیریت Loading سراسری
+- ✅ رعایت کامل استانداردهای **WordPress Coding Standards** و سازگاری با **GPLv2+**
+
+**تکنولوژی‌ها:** Vue 3، Vue Router، Vite، Axios، PHP 7.4+، WordPress 5.8+، MySQL، FTP/FTPS، REST API، SSE
 
 ---
 
-### 🌐 دفیدکس (defidex.co)
-پلتفرمی مبتنی بر وب با تمرکز بر راهکارهای دیجیتال و سرویس‌های آنلاین.
+### 🤖 چت‌جی‌بی‌تی (chatgbt.ir)
+همکاری در توسعه‌ی یک پلتفرم بومی برای دسترسی به مدل‌های هوش مصنوعی، با تمرکز بر یکپارچه‌سازی سرویس‌های متعدد و ارائه تجربه‌ی کاربری فارسی.
 
-🔗 [مشاهده وب‌سایت](https://defidex.co)
+🔗 [مشاهده وب‌سایت](https://chatgbt.ir)
 
-> ✏️ *(توضیحات این پروژه را می‌توانی اینجا کامل‌تر کنی.)*
+**مسئولیت‌ها و دستاوردها:**
+- 🔗 **یکپارچه‌سازی مدل‌ها:** پیاده‌سازی لایه‌ای برای اتصال و مدیریت ۴۰۵ مدل متن، ۵۵ مدل تصویر، ۳۰ مدل ویدیو و ۴ مدل صدا در یک حساب کاربری واحد
+- 💳 **سیستم پرداخت:** توسعه‌ی مکانیزم کیف پول مشترک و محاسبه‌ی هزینه بر اساس مصرف توکن برای هر مدل
+- 🛠️ **ابزارهای کاربردی:** پیاده‌سازی قابلیت‌هایی مانند جستجوی وب، پژوهش عمیق، آپلود فایل و تصویر، و تبدیل گفتار به متن
+- 🔌 **API و توسعه‌دهندگان:** ساخت و مستندسازی **API v1** برای اتصال محصولات خارجی به مدل‌های پلتفرم
 
 ---
 
@@ -73,10 +86,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Website](https://img.shields.io/badge/Website-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+[![Email](https://img.shields.io/badge/Email-bazrchinf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazrchinf@gmail.com)
 
 </div>
 
